@@ -1,0 +1,11 @@
+{
+  "name": "react-waveform-editor",
+  "version": "1.0.0",
+  "description": "react-waveform-editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "teradonburi",
+  "license": "MIT"
+}
