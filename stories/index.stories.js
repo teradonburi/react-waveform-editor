@@ -21,6 +21,6 @@ storiesOf('Button', module)
   ))
 */
 
-storiesOf('WaveformEditor', module)
+storiesOf('WaveFormEditor', module)
   .add('with show', () => <WaveFormEditor />)
 

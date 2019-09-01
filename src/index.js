@@ -1,15 +1,3 @@
-import React from 'react'
+import WaveFormEditor from './WaveFormEditor'
 
-export default class WaveFormEditor extends React.Component {
-
-  constructor(props) {
-    super(props)
-    this.state = {}
-  }
-
-  render () {
-    return (
-      <div>WIP</div>
-    )
-  }
-}
+export default WaveFormEditor
